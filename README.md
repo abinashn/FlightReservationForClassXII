@@ -77,7 +77,7 @@ The validation and search functions are implemented in a separate class called â
 Validity of Data & Format are done for following fields defined and used as Functions of the Utility Class
 -	Date and Time, Email, Phone, Postal code, Airline id, Connection id 
 
-***Binary search is used to validate airport id or airline id entries made by user during various inputs.***
+***_Binary search is used to validate airport id or airline id entries made by user during various inputs._***
 
 **Business Logic and Rules**
 
