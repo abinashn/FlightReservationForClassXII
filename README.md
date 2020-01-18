@@ -1,11 +1,5 @@
 # Flight Reservation For Class XII
 C++ Project Class 12th - for Flight Reservation system
-
-**OBJECTIVE**
-
-The objective of this project is to create an Online Flight Reservation System for National flights operated by different airlines between major cities in India. This project gives an online platform for the customers to book a flight ticket to their choice of destination and dates for travel. 
-
-The “Flight reservation system” project is an attempt to stimulate the basic concepts of airline reservation system. The system enables the customer search for airline flights for two travel cities on a specified date, choose a flight based on the details, reservation of flight and cancellation of reservation.
  
 **ENVIRONMENT**
 
