@@ -1,5 +1,5 @@
 # Flight Reservation For Class XII
-C++ Project Class 12th - for Flight Reservation system
+C++ Project Class 12th - Flight Reservation system
  
 **ENVIRONMENT**
 
